@@ -1,0 +1,1 @@
+export const DashVizzu = React.lazy(() => import(/* webpackChunkName: "DashVizzu" */ './fragments/DashVizzu.react'));

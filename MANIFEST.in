@@ -1,0 +1,11 @@
+include dash_vizzu/dash_vizzu.min.js
+include dash_vizzu/dash_vizzu.min.js.map
+include dash_vizzu/async-*.js
+include dash_vizzu/async-*.js.map
+include dash_vizzu/*-shared.js
+include dash_vizzu/*-shared.js.map
+include dash_vizzu/metadata.json
+include dash_vizzu/package-info.json
+include README.md
+include LICENSE
+include package.json
